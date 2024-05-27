@@ -8,6 +8,7 @@ class Child extends {
     @Override void sho()
     {
         System.out.println( Child's show());
+        System.out.println( Child's show());
     }
 }
  
